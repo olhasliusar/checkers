@@ -95,7 +95,7 @@ body{
 .column:nth-child(even) .ba-square:nth-child(even),
 .column:nth-child(odd) .ba-square:nth-child(odd)
 {
-	background: #D2AAFD;
+	background: #D4C4ED;
 }
 .checker{
 	position: relative;
